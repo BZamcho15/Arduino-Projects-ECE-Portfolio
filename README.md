@@ -1,2 +1,2 @@
 # EE-Portfolio
-This is a portfolio for all my Electrical and Computer Engineering Projects.
+Hello everyone, my name is Bryan Zamcho and this is a portfolio for all my Electrical and Computer Engineering Projects.
