@@ -1,2 +1,2 @@
-# Arduiono-Projects-EECS-Portfolio
-Hello everyone, my name is Bryan Zamcho and this is a portfolio for all my Arduino Projects for Electrical Engineering.
+# Arduiono-Projects-ECE-Portfolio
+Hello everyone, my name is Bryan Zamcho and this is a portfolio for all my Arduino Projects for Computer Engineering. My goal is to become a Computer Engineer, and there is no better way to help my chnaces then to document all the projects I've built. So that's exactly what I'm going to do. I will be posting my code, videos of me working, picutres of my work, and my tidbits and notes as I work. I hope you guys enjoy my work process and learn a thing or two from me.
